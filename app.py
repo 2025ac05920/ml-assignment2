@@ -92,7 +92,7 @@ def main():
     st.sidebar.markdown("**Developed by:**")
     st.sidebar.markdown("Niraj Kumar Rai")
     st.sidebar.markdown("2025ac05920")
-    st.sidebar.markdown("M.Tech (AIML) — BITS Pilani")
+    st.sidebar.markdown("M.Tech (AIML)")
     st.sidebar.markdown("---")
     st.sidebar.markdown("**GitHub Repository:**")
     st.sidebar.markdown("[2025ac05920/ml-assignment2](https://github.com/2025ac05920/ml-assignment2)")
@@ -201,7 +201,7 @@ def main():
         st.text(report)
 
     else:
-        st.info("👈 Upload a CSV file from the sidebar to get started.")
+        st.info("Upload a CSV file from the sidebar to get started.")
         st.write("The CSV should contain the feature columns and a 'target' column.")
         st.write("You can use `test_data.csv` from this repo as a sample.")
 

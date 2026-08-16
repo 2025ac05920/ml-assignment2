@@ -148,4 +148,4 @@ Upload `test_data.csv` in the app to see predictions and metrics.
 
 > **Replace this with your deployed app URL after deploying.**
 >
-> Live App: `https://<your-app-name>.streamlit.app`
+> Live App: `https://2025ac05920-WQC.streamlit.app`
