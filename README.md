@@ -1,6 +1,6 @@
 # ML Assignment 2 — Wine Quality Classification
 
-## a. Problem Statement
+## Problem Statement
 
 Build and compare **5 classification models** on a single dataset, evaluate each using 6 metrics (Accuracy, AUC, Precision, Recall, F1, MCC), and deploy an interactive Streamlit web app that lets a user upload test data, pick a model, and view results.
 
@@ -8,7 +8,7 @@ The dataset chosen is the **Wine Quality (Red)** dataset from UCI/Kaggle. The ta
 
 ---
 
-## b. Dataset Description
+## Dataset Description
 
 **Source:** UCI Machine Learning Repository / Kaggle  
 **Link:** <https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009>  
@@ -36,7 +36,7 @@ This satisfies the assignment constraints: **12 features** (11 input + derived t
 
 ---
 
-## c. GitHub Repository Link
+## GitHub Repository Link
 
 **BITS ID:** 2025ac05920  
 **Student:** Niraj Kumar Rai
@@ -45,7 +45,7 @@ GitHub Repo: [https://github.com/2025ac05920/ml-assignment2](https://github.com/
 
 ---
 
-## d. Models Used & Comparison Table
+## Models Used & Comparison Table
 
 ### Evaluation Metrics Table
 
