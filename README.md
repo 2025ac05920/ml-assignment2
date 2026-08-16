@@ -146,6 +146,4 @@ Upload `test_data.csv` in the app to see predictions and metrics.
 
 ## Streamlit App Link
 
-> **Replace this with your deployed app URL after deploying.**
->
-> Live App: `https://2025ac05920-WQC.streamlit.app`
+Live App: [https://2025ac05920-WQC.streamlit.app](https://2025ac05920-WQC.streamlit.app)
