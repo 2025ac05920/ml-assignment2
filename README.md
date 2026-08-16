@@ -76,13 +76,13 @@ GitHub Repo: [https://github.com/2025ac05920/ml-assignment2](https://github.com/
 ## Project Structure
 
 ```
-ml-assignment2-wine-quality/
+ml-assignment2/
 │
 ├── app.py                  # Streamlit web app
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── test_data.csv           # 20% hold-out test set (auto-generated)
+├── test_data.csv           # 20% hold-out test set
 ├── data/
 │   └── winequality-red.csv   # (download from Kaggle)
 └── model/
