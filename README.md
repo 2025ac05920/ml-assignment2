@@ -38,9 +38,6 @@ This satisfies the assignment constraints: **12 features** (11 input + derived t
 
 ## GitHub Repository Link
 
-**BITS ID:** 2025ac05920  
-**Student:** Niraj Kumar Rai
-
 GitHub Repo: [https://github.com/2025ac05920/ml-assignment2](https://github.com/2025ac05920/ml-assignment2)
 
 ---
